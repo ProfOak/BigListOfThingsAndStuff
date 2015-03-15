@@ -28,6 +28,12 @@ Git
 * [The Simple Guide](http://rogerdudler.github.io/git-guide/)
 * [Try Git](https://try.github.io/levels/1/challenges/1)
 
+Computer Science
+---
+* [What is computer science? (wikipedia)](http://en.wikipedia.org/wiki/Outline_of_computer_science)
+* [Reading Material for the different branches of CS](http://www.reddit.com/r/compsci/comments/gprp0/is_there_a_list_of_the_canonical_introductory/)
+* [Reading list for the self-taught computer scientist ](http://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
+
 General Programming Language
 ---
 * [Where to begin learning](http://www.reddit.com/r/learnprogramming/comments/2ksa0r/5_best_websites_to_start_learning_programming/)
@@ -40,9 +46,5 @@ Etc
 * [Functioning source code in the form of Anime ascii](http://uguu.org/sources.html)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org/)
 * [Big list of computer books](http://en.wikibooks.org/wiki/Subject:Computing)
-
-Computer Science
----
-* [What is computer science? (wikipedia)](http://en.wikipedia.org/wiki/Outline_of_computer_science)
-* [Reading Material for the different branches of CS](http://www.reddit.com/r/compsci/comments/gprp0/is_there_a_list_of_the_canonical_introductory/)
-* [Reading list for the self-taught computer scientist ](http://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
+* [Detexify - Try to find that latex symbol](http://detexify.kirelabs.org/classify.html)
+* [Bit twiddling hacks](http://graphics.stanford.edu/~seander/bithacks.html)
