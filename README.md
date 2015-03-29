@@ -3,10 +3,11 @@ The Big List Of Things And Stuff
 
 Security
 -- 
-* [Recommended reading](http://dfir.org/?q=node/8)
-* [Invent With Python](http://inventwithpython.com/hacking/chapters/)
-* [Assembly primer for hackers (videos)](http://www.securitytube.net/groups?operation=view&groupId=5)
 * [Phrack e-zine](http://phrack.org/)
+* [Invent With Python](http://inventwithpython.com/hacking/chapters/)
+* [Recommended reading](http://dfir.org/?q=node/8)
+* [Assembly primer for hackers (videos)](http://www.securitytube.net/groups?operation=view&groupId=5)
+* [OVerTheWire - Wargames](http://overthewire.org/wargames/)
 
 Vim
 ---
