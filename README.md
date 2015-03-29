@@ -41,6 +41,10 @@ General Programming Language
 * [Commonly used features in a side-by-side format](http://hyperpolyglot.org)
 * [Project ideas for learning a new language](https://github.com/plt/racket/wiki/Intro-Projects)
 
+Web Dev
+---
+* [Mozilla's Getting Started Guide](https://developer.mozilla.org/en-US/Learn)
+
 Etc
 ---
 * [Functioning source code in the form of Anime ascii](http://uguu.org/sources.html)
