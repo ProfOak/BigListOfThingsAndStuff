@@ -8,6 +8,7 @@ Security
 * [Recommended reading](http://dfir.org/?q=node/8)
 * [Assembly primer for hackers (videos)](http://www.securitytube.net/groups?operation=view&groupId=5)
 * [OVerTheWire - Wargames](http://overthewire.org/wargames/)
+* [Python Exploit Development Assistance for GDB ](https://github.com/zachriggle/peda)
 
 Vim
 ---
