@@ -42,6 +42,7 @@ General Programming Language
 * [Share and discover the best programming tutorials online](http://hackr.io/)
 * [Commonly used features in a side-by-side format](http://hyperpolyglot.org)
 * [Project ideas for learning a new language](https://github.com/plt/racket/wiki/Intro-Projects)
+* [GeeksQuiz](http://geeksquiz.com/)
 
 Web Dev
 ---
