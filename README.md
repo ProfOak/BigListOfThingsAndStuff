@@ -36,13 +36,17 @@ Computer Science
 * [Reading Material for the different branches of CS](http://www.reddit.com/r/compsci/comments/gprp0/is_there_a_list_of_the_canonical_introductory/)
 * [Reading list for the self-taught computer scientist ](http://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
 
+Quiz
+---
+* [GeeksQuiz](http://geeksquiz.com/)
+* [LeetCode](https://leetcode.com/problemset/algorithms/)
+
 General Programming Language
 ---
 * [Where to begin learning](http://www.reddit.com/r/learnprogramming/comments/2ksa0r/5_best_websites_to_start_learning_programming/)
 * [Share and discover the best programming tutorials online](http://hackr.io/)
 * [Commonly used features in a side-by-side format](http://hyperpolyglot.org)
 * [Project ideas for learning a new language](https://github.com/plt/racket/wiki/Intro-Projects)
-* [GeeksQuiz](http://geeksquiz.com/)
 
 Web Dev
 ---
