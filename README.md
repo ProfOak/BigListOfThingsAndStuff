@@ -20,8 +20,10 @@ Vim
 
 Linux Command Line
 ---
+* [Explain Shell](http://explainshell.com)
 * [The Linux Commad Line (Book)](http://linuxcommand.org/tlcl.php)
 * [Rute](http://rute.2038bug.com/index.html.gz)
+
 
 Git
 ---
